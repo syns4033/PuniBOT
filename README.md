@@ -3,7 +3,7 @@ Bot otomatis untuk platform Puni/Uniquid yang membantu menyelesaikan tugas haria
 
 ## 🎯 Daftar Puni/Uniquid
 Silahkan klik link dibawah ini untuk mendaftar:
-[https://t.me/uniquidpunibot/uniquid?startapp=900266905](https://t.me/uniquidpunibot/uniquid?startapp=900266905)
+[PuniBOT](https://t.me/uniquidpunibot/uniquid?startapp=900266905)
 
 ## 🚀 Fitur
 - Login otomatis menggunakan Telegram initData
